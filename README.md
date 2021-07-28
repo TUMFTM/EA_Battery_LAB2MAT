@@ -25,6 +25,8 @@ The main path contains three functions, *gamry2mat.m*, *biologic2mat* and *basyt
   - Repository author and maintainer
 - Nikolaos Wassiliadis, wassiliadis@ftm.mw.tum.de
   - Repository author and maintainer
+- Manuel Ank, ank@ftm.mw.tum.de
+  - Repository maintainer
 
 ## Contributions
 
