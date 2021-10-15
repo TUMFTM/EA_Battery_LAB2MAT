@@ -5,7 +5,7 @@ This repository provides a one-stop-toolbox for lab data processing and transfor
 ## Features
 - Transformation of .DTA files (Gamry devices) to .MAT files (MATLAB)
 - Transformation of .TXT files (Basytec devices) to .MAT files (MATLAB)
-- Transformation of .DTA files (Biologic devices) to .MAT files (MATLAB)
+- Transformation of .TXT files (Biologic devices) to .MAT files (MATLAB)
 
 ## Usage of the toolbox
 
