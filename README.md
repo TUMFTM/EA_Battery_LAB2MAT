@@ -17,7 +17,7 @@ The model was created with MATLAB 2019b. If you want to commit an updated versio
 
 ## How To Use
 
-The main path contains three functions, *gamry2mat.m*, *biologic2mat_v2* and *basytec2mat.m*, and two directories, *01_Input* and *02_Output*. First, place your raw data from your measurement device into *01_Input*. Run the function of choice in MATLAB. After completion, all files are converted and saved into *02_Output*.
+The main path contains three functions, *gamry2mat.m*, *biologic2mat* and *basytec2mat.m*, and two directories, *01_Input* and *02_Output*. First, place your raw data from your measurement device into *01_Input*. Run the function of choice in MATLAB. After completion, all files are converted and saved into *02_Output*.
 
 ## Authors
 
